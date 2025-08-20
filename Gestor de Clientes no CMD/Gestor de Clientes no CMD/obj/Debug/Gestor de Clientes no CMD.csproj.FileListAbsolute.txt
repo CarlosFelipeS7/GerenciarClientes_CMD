@@ -1,0 +1,8 @@
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Gestor de Clientes no CMD\Gestor de Clientes no CMD\bin\Debug\Gestor de Clientes no CMD.exe.config
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Gestor de Clientes no CMD\Gestor de Clientes no CMD\bin\Debug\Gestor de Clientes no CMD.exe
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Gestor de Clientes no CMD\Gestor de Clientes no CMD\bin\Debug\Gestor de Clientes no CMD.pdb
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Gestor de Clientes no CMD\Gestor de Clientes no CMD\obj\Debug\Gestor de Clientes no CMD.csproj.AssemblyReference.cache
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Gestor de Clientes no CMD\Gestor de Clientes no CMD\obj\Debug\Gestor de Clientes no CMD.csproj.CoreCompileInputs.cache
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Gestor de Clientes no CMD\Gestor de Clientes no CMD\obj\Debug\Gestor de Clientes no CMD.exe
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Gestor de Clientes no CMD\Gestor de Clientes no CMD\obj\Debug\Gestor de Clientes no CMD.pdb
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Gestor de Clientes no CMD\Gestor de Clientes no CMD\obj\Debug\Gestor de Clientes no CMD.exe.config
